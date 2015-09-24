@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
 files:
-#  - source: /pradhmanyu/ost/index.php
+  - source: index.html
     destination: /var/www/html
 hooks:
 # BeforeInstall:
